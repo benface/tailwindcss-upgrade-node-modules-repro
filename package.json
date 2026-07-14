@@ -1,8 +1,5 @@
 {
-  "name": "tailwindcss-upgrade-node-modules-repro",
+  "name": "root",
   "version": "0.0.0",
-  "private": true,
-  "devDependencies": {
-    "tailwindcss": "^4.1.14"
-  }
+  "private": true
 }
