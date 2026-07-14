@@ -10,7 +10,6 @@ Robin Malfait shipped a fix in the closed [#19726](https://github.com/tailwindla
 git clone https://github.com/benface/tailwindcss-upgrade-node-modules-repro
 cd tailwindcss-upgrade-node-modules-repro
 pnpm install
-git init -q && git add -A && git -c user.email=x@x -c user.name=x commit -qm init
 cd packages/css
 pnpm dlx @tailwindcss/upgrade
 ```
